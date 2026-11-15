@@ -1,0 +1,112 @@
+[
+  {
+    "rank": 1,
+    "striker_name": "Naman Dhir",
+    "tot_hp_balls": 150.0,
+    "avg_hp_sr": 206.0,
+    "avg_norm_sr": 155.0595238095238,
+    "avg_hp_bnd": 30.0,
+    "residual_lift": 1.2511271392340413,
+    "impact_rate": 0.7647058823529411,
+    "clutch_score": 1.2169658247926383
+  },
+  {
+    "rank": 2,
+    "striker_name": "Jos Buttler",
+    "tot_hp_balls": 180.0,
+    "avg_hp_sr": 199.44444444444446,
+    "avg_norm_sr": 152.91300877893056,
+    "avg_hp_bnd": 29.444444444444443,
+    "residual_lift": 1.0725482589264528,
+    "impact_rate": 0.7058823529411765,
+    "clutch_score": 1.0857116605984665
+  },
+  {
+    "rank": 3,
+    "striker_name": "Suryakumar Yadav",
+    "tot_hp_balls": 475.0,
+    "avg_hp_sr": 177.68421052631578,
+    "avg_norm_sr": 164.01098901098902,
+    "avg_hp_bnd": 26.94736842105263,
+    "residual_lift": 0.7852413365279278,
+    "impact_rate": 0.7894736842105263,
+    "clutch_score": 0.9923497430229336
+  },
+  {
+    "rank": 4,
+    "striker_name": "Mark Chapman",
+    "tot_hp_balls": 213.0,
+    "avg_hp_sr": 175.5868544600939,
+    "avg_norm_sr": 134.45945945945945,
+    "avg_hp_bnd": 23.004694835680752,
+    "residual_lift": 0.8839853310118022,
+    "impact_rate": 0.75,
+    "clutch_score": 0.9580430549029306
+  },
+  {
+    "rank": 5,
+    "striker_name": "Glenn Maxwell",
+    "tot_hp_balls": 163.0,
+    "avg_hp_sr": 179.14110429447854,
+    "avg_norm_sr": 156.58602150537635,
+    "avg_hp_bnd": 27.607361963190183,
+    "residual_lift": 0.8972031258422213,
+    "impact_rate": 0.8125,
+    "clutch_score": 0.9505999193809207
+  },
+  {
+    "rank": 6,
+    "striker_name": "Nicholas Pooran",
+    "tot_hp_balls": 461.0,
+    "avg_hp_sr": 180.26030368763557,
+    "avg_norm_sr": 150.1739735560195,
+    "avg_hp_bnd": 25.162689804772235,
+    "residual_lift": 0.7652841863875919,
+    "impact_rate": 0.7142857142857143,
+    "clutch_score": 0.9340851623545664
+  },
+  {
+    "rank": 7,
+    "striker_name": "Fakhar Zaman",
+    "tot_hp_balls": 101.0,
+    "avg_hp_sr": 185.14851485148515,
+    "avg_norm_sr": 124.2782152230971,
+    "avg_hp_bnd": 26.73267326732674,
+    "residual_lift": 1.0825805397192418,
+    "impact_rate": 0.6923076923076923,
+    "clutch_score": 0.9303280514378404
+  },
+  {
+    "rank": 8,
+    "striker_name": "Reeza Hendricks",
+    "tot_hp_balls": 123.0,
+    "avg_hp_sr": 179.67479674796746,
+    "avg_norm_sr": 141.50076569678407,
+    "avg_hp_bnd": 25.203252032520325,
+    "residual_lift": 0.9688771916310216,
+    "impact_rate": 0.7142857142857143,
+    "clutch_score": 0.9113298955275364
+  },
+  {
+    "rank": 9,
+    "striker_name": "Tim David",
+    "tot_hp_balls": 446.0,
+    "avg_hp_sr": 178.69955156950672,
+    "avg_norm_sr": 175.79529737206084,
+    "avg_hp_bnd": 24.43946188340807,
+    "residual_lift": 0.6833712611215059,
+    "impact_rate": 0.6521739130434783,
+    "clutch_score": 0.8450240571534787
+  },
+  {
+    "rank": 10,
+    "striker_name": "Matthew Wade",
+    "tot_hp_balls": 167.0,
+    "avg_hp_sr": 161.07784431137725,
+    "avg_norm_sr": 126.37362637362638,
+    "avg_hp_bnd": 20.35928143712575,
+    "residual_lift": 0.6787032263754806,
+    "impact_rate": 0.7692307692307693,
+    "clutch_score": 0.7366805465056986
+  }
+]

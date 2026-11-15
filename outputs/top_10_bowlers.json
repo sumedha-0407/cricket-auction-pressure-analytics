@@ -1,0 +1,122 @@
+[
+  {
+    "rank": 1,
+    "bowler_name": "Noor Ahmad",
+    "tot_hp_balls": 244.0,
+    "avg_hp_econ": 8.28688524590164,
+    "avg_norm_econ": 7.518672199170124,
+    "avg_hp_dot": 40.16393442622951,
+    "avg_hp_wkt": 7.786885245901639,
+    "residual_lift": 0.7641417526741433,
+    "impact_rate": 0.6666666666666666,
+    "clutch_score": 0.7495696898397273
+  },
+  {
+    "rank": 2,
+    "bowler_name": "Roston Chase",
+    "tot_hp_balls": 109.0,
+    "avg_hp_econ": 7.486238532110092,
+    "avg_norm_econ": 7.5492154065620545,
+    "avg_hp_dot": 35.77981651376147,
+    "avg_hp_wkt": 10.091743119266056,
+    "residual_lift": 0.7532983738605362,
+    "impact_rate": 1.0,
+    "clutch_score": 0.6670030588382809
+  },
+  {
+    "rank": 3,
+    "bowler_name": "Ben Dwarshuis",
+    "tot_hp_balls": 139.0,
+    "avg_hp_econ": 7.899280575539568,
+    "avg_norm_econ": 9.181208053691275,
+    "avg_hp_dot": 38.84892086330935,
+    "avg_hp_wkt": 9.352517985611511,
+    "residual_lift": 0.7275254082957853,
+    "impact_rate": 0.8333333333333334,
+    "clutch_score": 0.6480764366582544
+  },
+  {
+    "rank": 4,
+    "bowler_name": "Taskin Ahmed",
+    "tot_hp_balls": 259.0,
+    "avg_hp_econ": 8.038610038610038,
+    "avg_norm_econ": 7.564493758668517,
+    "avg_hp_dot": 40.92664092664093,
+    "avg_hp_wkt": 8.108108108108109,
+    "residual_lift": 0.6050405454538245,
+    "impact_rate": 0.8,
+    "clutch_score": 0.6428580565100347
+  },
+  {
+    "rank": 5,
+    "bowler_name": "Sunil Narine",
+    "tot_hp_balls": 256.0,
+    "avg_hp_econ": 7.6640625,
+    "avg_norm_econ": 6.489396411092985,
+    "avg_hp_dot": 36.328125,
+    "avg_hp_wkt": 4.296875,
+    "residual_lift": 0.531627870872011,
+    "impact_rate": 0.6551724137931034,
+    "clutch_score": 0.5671174273788325
+  },
+  {
+    "rank": 6,
+    "bowler_name": "Tim Southee",
+    "tot_hp_balls": 161.0,
+    "avg_hp_econ": 8.347826086956522,
+    "avg_norm_econ": 7.886547811993517,
+    "avg_hp_dot": 39.75155279503105,
+    "avg_hp_wkt": 7.453416149068323,
+    "residual_lift": 0.5496547533220364,
+    "impact_rate": 0.6842105263157895,
+    "clutch_score": 0.5234063645111543
+  },
+  {
+    "rank": 7,
+    "bowler_name": "Jasprit Bumrah",
+    "tot_hp_balls": 552.0,
+    "avg_hp_econ": 7.608695652173913,
+    "avg_norm_econ": 6.417439703153989,
+    "avg_hp_dot": 35.14492753623188,
+    "avg_hp_wkt": 4.347826086956521,
+    "residual_lift": 0.3948968041897065,
+    "impact_rate": 0.7551020408163265,
+    "clutch_score": 0.5229294888094106
+  },
+  {
+    "rank": 8,
+    "bowler_name": "Eshan Malinga",
+    "tot_hp_balls": 233.0,
+    "avg_hp_econ": 8.472103004291846,
+    "avg_norm_econ": 9.260377358490565,
+    "avg_hp_dot": 33.90557939914163,
+    "avg_hp_wkt": 7.296137339055794,
+    "residual_lift": 0.48733745338127865,
+    "impact_rate": 0.9,
+    "clutch_score": 0.5097672061265832
+  },
+  {
+    "rank": 9,
+    "bowler_name": "Corbin Bosch",
+    "tot_hp_balls": 101.0,
+    "avg_hp_econ": 9.623762376237623,
+    "avg_norm_econ": 7.735537190082645,
+    "avg_hp_dot": 42.57425742574257,
+    "avg_hp_wkt": 10.891089108910892,
+    "residual_lift": 0.5708582314235127,
+    "impact_rate": 0.7272727272727273,
+    "clutch_score": 0.508753653031044
+  },
+  {
+    "rank": 10,
+    "bowler_name": "Rashid Khan",
+    "tot_hp_balls": 504.0,
+    "avg_hp_econ": 8.345238095238095,
+    "avg_norm_econ": 7.081509082440615,
+    "avg_hp_dot": 32.93650793650794,
+    "avg_hp_wkt": 7.341269841269841,
+    "residual_lift": 0.4175817157497978,
+    "impact_rate": 0.8032786885245902,
+    "clutch_score": 0.5074298859401262
+  }
+]
